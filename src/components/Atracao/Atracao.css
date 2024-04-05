@@ -1,0 +1,14 @@
+.ctn-atracao {
+    width: 20%;
+    height: 50vh;
+    font-family: "Caesar Dressing", system-ui;
+
+    background-color: #A7A000;
+
+    border: 2px solid #555;
+}
+
+.ctn-atracao>img {
+    width: 50%;
+    height: 50%;
+}

@@ -1,0 +1,35 @@
+
+input {
+    background-color: white;
+    color: black;
+}
+
+.input{
+    width: 500px;
+    height: 30px;
+}
+
+.tudo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.forms{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+label{
+    margin-top: 30px;
+}
+
+.botao{
+    margin-top: 30px;
+}
+
+.titulo{
+    margin-top: 40px;
+}
